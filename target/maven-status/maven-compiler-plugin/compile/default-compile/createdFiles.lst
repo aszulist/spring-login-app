@@ -1,0 +1,14 @@
+eu/purecode/springloginapp/model/Role.class
+eu/purecode/springloginapp/model/User.class
+eu/purecode/springloginapp/validator/UserValidator.class
+eu/purecode/springloginapp/service/UserService.class
+eu/purecode/springloginapp/service/UserServiceImpl.class
+eu/purecode/springloginapp/service/SecurityServiceImpl.class
+eu/purecode/springloginapp/service/SecurityService.class
+eu/purecode/springloginapp/controller/UserController.class
+eu/purecode/springloginapp/config/PersistenceConfiguration.class
+eu/purecode/springloginapp/WebSecurityConfig.class
+eu/purecode/springloginapp/service/UserDetailsServiceImpl.class
+eu/purecode/springloginapp/repository/RoleRepository.class
+eu/purecode/springloginapp/WebApplication.class
+eu/purecode/springloginapp/repository/UserRepository.class

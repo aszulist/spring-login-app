@@ -1,0 +1,14 @@
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/validator/UserValidator.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/service/UserDetailsServiceImpl.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/service/UserService.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/model/Role.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/repository/RoleRepository.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/controller/UserController.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/model/User.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/WebSecurityConfig.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/service/SecurityService.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/WebApplication.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/service/SecurityServiceImpl.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/service/UserServiceImpl.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/config/PersistenceConfiguration.java
+/home/adam/Repositories/springloginapp/src/main/java/eu/purecode/springloginapp/repository/UserRepository.java
